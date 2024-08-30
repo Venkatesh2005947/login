@@ -1,0 +1,43 @@
+
+body{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    background-image: url(image/color\ BG.jpeg);
+    background-size: cover;
+}
+        .container{
+            
+            
+            padding: 30px;
+            border-radius: 70px;
+            box-shadow: 4px 4px white; 
+            width: 500px;
+            text-align: center;
+            background-color: midnightblue;
+            color: white;
+            
+        }
+        .sign{
+            padding-bottom: 20px;
+        }
+        input{
+            width: 50%;
+            
+        }
+        button{
+            width: 60px;
+            border-radius: 10px;
+        }
+        button:hover{
+            background-color: rgb(10, 93, 187);
+            cursor: pointer;
+        }
+        a{
+            color: rgb(236, 15, 236);
+        }
+       p:hover{
+        text-decoration: underline;
+       }
+       
